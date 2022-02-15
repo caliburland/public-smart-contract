@@ -1,2 +1,2 @@
-# public-smart-contract
-public smart contracts
+# Caliburland Smart Contract
+coming soon..
